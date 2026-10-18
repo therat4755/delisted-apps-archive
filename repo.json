@@ -4,7 +4,7 @@
   "description": "An entire OpenAppStore repository dedicated to archiving old and delisted apps from Google Play store",
   "homepage": "https://github.com/therat4755/delisted-apps-archive",
   "mirrors": [],
-  "lastUpdated": "2026-10-18T13:40:26Z",
+  "lastUpdated": "2026-10-18T13:45:15Z",
   "apps": [
     {
       "id": "com.adobe.adobegovforum2026",
@@ -23,7 +23,7 @@
       "donate": "",
       "releases": [
         {
-          "versionName": "App",
+          "versionName": "1",
           "versionCode": 1,
           "channel": "stable",
           "url": "https://github.com/therat4755/delisted-apps-archive/releases/download/1/Adobe.Government.Forum.2026.apks",
@@ -53,10 +53,40 @@
       "donate": "",
       "releases": [
         {
-          "versionName": "App",
+          "versionName": "1",
           "versionCode": 1,
           "channel": "stable",
           "url": "https://github.com/therat4755/delisted-apps-archive/releases/download/1/Adobe.Government.Forum.2024.apk",
+          "size": 0,
+          "sha256": "",
+          "minSdkVersion": 21,
+          "targetSdkVersion": 34,
+          "added": "2026-10-18",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "com.microsoft.copilot",
+      "name": "Microsoft Copilot",
+      "summary": "Deprecated because of new limited \"sloppy\" app",
+      "description": "Microsoft Copilot: Your Personal AI Assistant for Every Task\n\nCopilot is your personal AI assistant, always ready to help with any task—whether it’s a work project, a creative idea, or your daily to-do list. Powered by Microsoft’s advanced AI technology, Copilot makes completing any task faster, easier, and more convenient.\n\nWHY CHOOSE COPILOT?\n\nMore Than Just an AI Chatbot\nExperience AI conversations that feel natural and intuitive. Copilot understands context, adapts to your needs, and provides thoughtful responses that help you achieve more.\n\nMico: Your Visual AI Assistant\nMeet Mico, Copilot’s revolutionary visual AI assistant. Using real-life expressions, Mico makes interactions feel even more personal and engaging. Get help in a whole new way from an AI that truly interacts with you.\n\nPOWERFUL FEATURES\n\nCreate Stunning Visuals\nTurn your ideas into beautiful images with AI-powered image generation. Create logos, illustrations, and social media content using just a few words.\n\nView and Analyze\nAnalyze images, extract insights from photos, and perform visual searches using Vision. Simply share an image, and Copilot will help you understand what you’re looking at. Built-in Smart Learning Tools\n• Flashcards for effective study sessions\n• Live learning with Mico for interactive education\n• Quiz mode to test your knowledge\n• Educational support tailored to your pace\n\nAudio-Based Learning\nExplore podcasts created just for you. Get explanations of complex topics in an accessible audio format.\n\nWork Smarter, Not Harder\n• Draft emails, presentations, and reports in seconds\n• Summarize complex information\n• Translate text and check spelling in multiple languages\n• Create grocery lists, meal plans, and travel itineraries\n• Get help writing resumes, cover letters, and reports\n\nVoice Chat Support\nInteract with Copilot naturally using voice chat. Generate ideas, create content, or get quick answers—all hands-free.\n\nWHO IS IT FOR?\n\n• Students looking for educational support and study tools\n• Professionals needing help with work tasks and productivity\n• Creatives seeking inspiration or looking to generate images\n• Anyone who needs a reliable AI assistant for everyday life\n\nHOW COPILOT HELPS YOU\n\nGet direct answers to complex questions through simple, natural conversations. Perhaps you are planning a trip, preparing for a presentation, or exploring new ideas. Whatever you are doing, Copilot is there to help when you need it most. Experience an AI that boosts your confidence, sparks creativity, and helps you achieve more every single day.\n\nDownload Microsoft Copilot and meet your new AI assistant today.\n\n\n\nPremium. Microsoft 365 Premium is a subscription for up to six users. It offers the highest usage limits for AI features, up to 6 TB of cloud storage (1 TB per user), powerful productivity and creative apps with Microsoft Copilot, advanced data and device protection, and ongoing support. AI-powered features are available only to the subscription owner. Usage limits apply.\n\nPersonal. Microsoft 365 Personal is a subscription for one user. It includes 1 TB (1,000 GB) of cloud storage, powerful productivity and creative apps with Microsoft Copilot (usage limits apply), advanced data and device protection, and ongoing support.",
+      "developer": "Microslop",
+      "license": "",
+      "categories": [],
+      "tags": [],
+      "icon": "",
+      "screenshots": [],
+      "homepage": "https://play.google.com/store/apps/details?id=com.microsoft.copilot",
+      "sourceCode": "",
+      "issueTracker": "",
+      "donate": "",
+      "releases": [
+        {
+          "versionName": "1",
+          "versionCode": 1,
+          "channel": "stable",
+          "url": "https://github.com/therat4755/delisted-apps-archive/releases/download/1/Microsoft.Copilot.apk",
           "size": 0,
           "sha256": "",
           "minSdkVersion": 21,
