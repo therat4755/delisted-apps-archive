@@ -1,0 +1,70 @@
+{
+  "formatVersion": 1,
+  "name": "Delisted apps ftom app stores",
+  "description": "An entire OpenAppStore repository dedicated to archiving old and delisted apps from Google Play store",
+  "homepage": "https://github.com/therat4755/delisted-apps-archive",
+  "mirrors": [],
+  "lastUpdated": "2026-10-18T13:40:26Z",
+  "apps": [
+    {
+      "id": "com.adobe.adobegovforum2026",
+      "name": "Adobe Government Forum 2026",
+      "summary": "Unlisted, bc expired",
+      "description": "This is the official mobile app for the Adobe Government Forum 2026, taking place in Washington, D.C., on February 5. Designed for professionals in the public sector, defense, and industry, the app provides full access to the event agenda, session tracks, and speaker information. Download it now to:\n\n- Browse and bookmark sessions that align with your mission-related interests\n- Explore the speaker lineup and venue details\n- Receive real-time push notifications about schedule updates and networking opportunities\n- Easily access information on every session and contact\n\nJoin us to explore how governments are leveraging digital experiences, generative AI, and content-velocity strategies to modernize service delivery, enhance employee experiences, and put people at the heart of every mission.",
+      "developer": "Adobe",
+      "license": "",
+      "categories": [],
+      "tags": [],
+      "icon": "https://github.com/therat4755/delisted-apps-archive/blob/main/adobe.png?raw=true",
+      "screenshots": [],
+      "homepage": "https://play.google.com/store/apps/details?id=com.adobe.adobegovforum2026",
+      "sourceCode": "",
+      "issueTracker": "",
+      "donate": "",
+      "releases": [
+        {
+          "versionName": "App",
+          "versionCode": 1,
+          "channel": "stable",
+          "url": "https://github.com/therat4755/delisted-apps-archive/releases/download/1/Adobe.Government.Forum.2026.apks",
+          "size": 0,
+          "sha256": "",
+          "minSdkVersion": 21,
+          "targetSdkVersion": 34,
+          "added": "2026-10-18",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "com.rainfocus.eventapp.AdobeGovernmentForum2024",
+      "name": "Adobe Government Forum 2024",
+      "summary": "Delisted, expired",
+      "description": "For Government Forum attendees\nDownload the Gov Forum mobile app to stay connected during the conference. The Gov Forum app provides the latest information to help you get the most out of your experience. Manage your schedule, connect with other attendees, and view the agenda, announcements, and conference maps. For more details about the Adobe Government Forum—a digital experience conference for government—please visit https://reg.adobe.com/flow/adobe/agf24/landingpage/page/home.",
+      "developer": "Adobe",
+      "license": "",
+      "categories": [],
+      "tags": [],
+      "icon": "https://github.com/therat4755/delisted-apps-archive/blob/main/com.rainfocus.eventapp.AdobeGovernmentForum2024.png?raw=true",
+      "screenshots": [],
+      "homepage": "https://apkpure.com/ru/adobe-government-forum-2024/com.rainfocus.eventapp.AdobeGovernmentForum2024",
+      "sourceCode": "",
+      "issueTracker": "",
+      "donate": "",
+      "releases": [
+        {
+          "versionName": "App",
+          "versionCode": 1,
+          "channel": "stable",
+          "url": "https://github.com/therat4755/delisted-apps-archive/releases/download/1/Adobe.Government.Forum.2024.apk",
+          "size": 0,
+          "sha256": "",
+          "minSdkVersion": 21,
+          "targetSdkVersion": 34,
+          "added": "2026-10-18",
+          "changelog": ""
+        }
+      ]
+    }
+  ]
+}
